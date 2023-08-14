@@ -1,0 +1,41 @@
+_repo: Lexicon-Latinum-b-Universae-phraseologiae-corpus-congestum-etc_71280
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wagner, Franz
+    aliases:
+    - Wagner, Francisco
+    - Wagner, Franciscus
+    birthdate: 1675
+    deathdate: 1738
+    gutenberg_agent_id: '56150'
+    url: http://www.gutenberg.org/2009/agents/56150
+  editor:
+    agent_name: Borgnet, Auguste
+    birthdate: 1848
+    gutenberg_agent_id: '56151'
+    url: http://www.gutenberg.org/2009/agents/56151
+description: ''
+gutenberg_issued: '2023-07-26'
+identifiers:
+  gutenberg: '71280'
+language:
+- fr
+- la
+pgterms:marc904: https://archive.org/details/wagnerlexiconlatinum
+pgterms:marc905: 20180523210607wagner
+pgterms:marc906: '1878'
+pgterms:marc907: BE
+production_note: MWS, rmedinap and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBelgium :$bSumptibus et typis societatis St. Augustini, $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin language -- Idioms'
+- !lcsh 'Latin language -- Dictionaries'
+- !lcsh 'Latin language -- Errors of usage'
+- !lcc 'PA'
+- GITenberg
+title: 'Lexicon Latinum : $b Universae phraseologiae corpus congestum etc.'
+url: http://www.gutenberg.org/ebooks/71280
