@@ -1,5 +1,8 @@
 _repo: Lexicon-Latinum-b-Universae-phraseologiae-corpus-congestum-etc_71280
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71280-h/images/cover.jpg
 creator:
   author:
     agent_name: Wagner, Franz
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '56151'
     url: http://www.gutenberg.org/2009/agents/56151
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71280#Lexicon-Latinum-b-Universae-phraseologiae-corpus-congestum-etc
 gutenberg_issued: '2023-07-26'
 identifiers:
   gutenberg: '71280'
